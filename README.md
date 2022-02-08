@@ -45,7 +45,7 @@ This one is usually based on what the group decides on. Best way to communicate 
 It is best that when you are working on a group project that you have a weekly meeting to ensure that everyone is on track and knows what they are doing. This should be done either in person or on a conference application like Discord, Zoom or Microsoft Teams.
 
 ## Deadlines
-When the assignments are set make sure to not only take a mental note but physical note too. if you have a diary or student planner highlight when the deadline is due on your paper by making it stand out, this can be by circling it or using alternate colors for deadlines like a bright red.
+When the assignments are set make sure to not only take a mental note but physical note too. if you have a diary or student planner highlight when the deadline is due on your paper by making it stand out, this can be by circling it or using alternate colors for deadlines like a bright red. Most scools come with a free version of Office 365 which includes a student email has a calender option built in. This can be used for not only deadlines but for when you have lessons to better manage your time and see how the time is taken up.
 
 Alternativly using a digital method I recommend using Calenders. This is mainly due to the fact most Uni's use email through outlook and meethings and other events can be easily made through outlook with just a click of a button. Great for groupwork and keeps everything all in one little place rather than going from application to application.
 
