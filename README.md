@@ -65,7 +65,7 @@ Using the calender web application, input all the times you need to be in lectur
 To ensure that you do not fall behind it is important to manage your time to the deadline. You should 
 
 ### Exam
-"Let’s say you learned something you want to remember in the long-run. Now, what you should do is read it today (1), tomorrow (2), the day after tomorrow (3), and then on the 7th day from your first reading (7). If you read something today, say, August 10th, you’d re-read it on the 11th, 12th, and the 17th." [1]
+"Let’s say you learned something you want to remember in the long-run. Now, what you should do is read it today (1), tomorrow (2), the day after tomorrow (3), and then on the 7th day from your first reading (7). If you read something today, say, August 10th, you’d re-read it on the 11th, 12th, and the 17th." [Improve Long Term Memory]
 
 ## Last little Note
 If you have any suggestions on what could be added to this document to help other fellow students feel free to add to this document either in the form of a fork or using the 'issues' tab. I will be sure to credit you :3
@@ -74,6 +74,4 @@ If you have any suggestions on what could be added to this document to help othe
 Original Author: William Georgeson
 ```
 ## References
-```
-[Improve Long Term Memory](https://bettermarketing.pub/use-the-7-3-2-1-method-to-improve-your-long-term-memory-829a43a040f7)
-```
+* [Improve Long Term Memory](https://bettermarketing.pub/use-the-7-3-2-1-method-to-improve-your-long-term-memory-829a43a040f7)
