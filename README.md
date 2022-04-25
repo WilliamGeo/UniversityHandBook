@@ -19,10 +19,11 @@ This is a document to help University Students organise their workflow and their
 * [Credits](#credits)
 * [References](#references)
 
+-----
+
 <br>
 
 ## Work Space
------
 ### File System
 Using a cloud service of your choice such as OneDrive (Typically used by most schools free for the students), Google Cloud, Dropbox, etc. This file structure will help organise your files. Make sure to take full advantage of all the facilities offered by your University. Having a backup of all of your work online is a good practise.
 
@@ -77,7 +78,6 @@ It also has a host of other features such as making text **bold**, *italic* & [a
 <br><br>
 
 ## Collabrative Working
------
 This one is usually based on what the group decides on. Best way to communicate with your collegues is either through email if it requires very little communication.
 
 ### Stand-up
@@ -88,7 +88,6 @@ Git is one of the best collaboration tools when learnt and used correctly. I rec
 <br><br>
 
 ## Calenders
------
 ### Deadlines
 When the assignments are set make sure to not only take a mental note but physical note too. if you have a diary or student planner highlight when the deadline is due on your paper by making it stand out, this can be by circling it or using alternate colors for deadlines like a bright red. Most scools come with a free version of Office 365 which includes a student email has a calender option built in. This can be used for not only deadlines but for when you have lessons to better manage your time and see how the time is taken up.
 
@@ -98,7 +97,6 @@ Using the calender web application, input all the times you need to be in lectur
 <br><br>
 
 ## Organising your time
------
 ### Coursework
 To ensure that you do not fall behind it is important to manage your time to the deadline. You should 
 
@@ -107,16 +105,13 @@ To ensure that you do not fall behind it is important to manage your time to the
 <br><br>
 
 ## Last little Note
------
 If you have any suggestions on what could be added to this document to help other fellow students feel free to add to this document either in the form of a fork or using the 'issues' tab. I will be sure to credit you :3
 <br><br>
 
 ## Credits
------
 ```
 Original Author: William Georgeson
 ```
 ## References
------
 * [Improve Long Term Memory](https://bettermarketing.pub/use-the-7-3-2-1-method-to-improve-your-long-term-memory-829a43a040f7)
 * [Markdown CheatSheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
