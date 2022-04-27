@@ -16,6 +16,7 @@ This is a document to help University Students organise their workflow and their
 * [Organising your time](#organising-your-time)
     - [Coursework](#coursework)
     - [Exams](#exam)
+    - [Reward System](#reward)
 * [Credits](#credits)
 * [References](#references)
 
@@ -74,7 +75,7 @@ public class Test {
     }
 }
 ```
-It also has a host of other features such as making text **bold**, *italic* & [adding links](www.google.com). More can be found at the link [here](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet).
+It also has a host of other features such as making text **bold**, *italic* & [adding links](www.google.com). More can be found at the link [Markdown CheatSheet].
 <br><br>
 
 ## Collabrative Working
@@ -84,7 +85,7 @@ This one is usually based on what the group decides on. Best way to communicate 
 It is best that when you are working on a group project that you have a weekly meeting to ensure that everyone is on track and knows what they are doing. This should be done either in person or on a conference application like Discord, Zoom or Microsoft Teams.
 
 ### Git
-Git is one of the best collaboration tools when learnt and used correctly. I recommend to use GitHub as a Student that has a 365 package you get free [Github Pro](https://education.github.com/pack) which features a range of free tools to use (as a student) most include WebDev tools.
+Git is one of the best collaboration tools when learnt and used correctly. I recommend to use GitHub as a Student that has a 365 package you get free [Github Pro] which features a range of free tools to use (as a student) most include WebDev tools.
 <br><br>
 
 ## Calenders
@@ -102,6 +103,10 @@ To ensure that you do not fall behind it is important to manage your time to the
 
 ### Exam
 "Let’s say you learned something you want to remember in the long-run. Now, what you should do is read it today (1), tomorrow (2), the day after tomorrow (3), and then on the 7th day from your first reading (7). If you read something today, say, August 10th, you’d re-read it on the 11th, 12th, and the 17th." [Improve Long Term Memory]
+
+### Reward System
+If you feel unmotivated try to add a reward system to your work. For every task you complete, give it a piece of coursework, you get to do something you want to do such as play a game for 30 mins. This will help divide up the work and not make it seem to stressful.
+Please also make sure you take regular breaks from work as being confined to a task for too long can just cause you to stop working.
 <br><br>
 
 ## Last little Note
@@ -113,5 +118,7 @@ If you have any suggestions on what could be added to this document to help othe
 Original Author: William Georgeson
 ```
 ## References
+* [Github Pro](https://education.github.com/pack)
 * [Improve Long Term Memory](https://bettermarketing.pub/use-the-7-3-2-1-method-to-improve-your-long-term-memory-829a43a040f7)
 * [Markdown CheatSheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+* 
