@@ -3,20 +3,23 @@
 This is a document to help University Students organise their workflow and their organistaion. This is based on my own experience and could be different from University to University and Country to Country. This is taylored to Computer Science Students but advice can be taken by any form of student in most sections of the handbook. Any improvements to the handbook feel free to send a pull request and ensure you credit your source and yourself at the bottom of the document.
 
 ## Content
+* [Introduction](#introduction)
 * [Work Space](#work-space)
     - [File System](#file-system)
     - [Structure of File System](#structure-of-file-system)
     - [Note Taking](#note-taking)
 * [Collaborative Working](#collabrative-working)
+    - [Communication](Communication)
     - [Stand-up](#stand-up)
     - [Git](#git)
-* [Calenders](#calenders)
+* [Online Calenders](#online-calenders)
     - [Deadlines](#deadlines)
     - [Timetable](#timetable)
 * [Organising your time](#organising-your-time)
     - [Coursework](#coursework)
     - [Exams](#exam)
-    - [Reward System](#reward)
+    - [Reward System](#reward-system)
+* [Employment](#employment)
 * [Credits](#credits)
 * [References](#references)
 
@@ -57,10 +60,11 @@ Year One
 └── TimeTable.xlsx
 ```
 
-| Key  | Information                                                                                |
-| :--- | :----------------------------------------------------------------------------------------: |
-| Year | Current year of study, this typically goes up to 3 with Bachelor's Degree                  |
-| UID  | "Unique Identifier" this is typically used in your school email e.g wgeorgeson@example.com |
+| Key        | Information                                                                                |
+| :--------- | :----------------------------------------------------------------------------------------: |
+| Year       | Current year of study, this typically goes up to 3 with Bachelor's Degree                  |
+| UID        | "Unique Identifier" this is typically used in your school email e.g wgeorgeson@example.com |
+| COURSE-ID  | "CS50" the course number that identifies it on campus                                      |
 
 When the submission date is due, downloading this will usually result in a zip which can be easily renamed and submitted. For example, when finished Coursework 2 as seen above, downloading it will produce a ```file.zip```. Renaming this to ```UID-COURSE_ID-Courework_2.zip``` will identify you, the course it represents and the coursework for the tutor to easily exam. <br>
 **Make sure you follow the guidelines set by your tutor above all else. Using this instead of their formatting can cause failed marks.**
@@ -75,11 +79,14 @@ public class Test {
     }
 }
 ```
-It also has a host of other features such as making text **bold**, *italic* & [adding links](www.google.com). More can be found at the link [Markdown CheatSheet].
+It also has a host of other features such as making text **bold**, *italic* & [adding links](www.google.com). More can be found at the link [Markdown CheatSheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet).
 <br><br>
 
 ## Collabrative Working
 This one is usually based on what the group decides on. Best way to communicate with your collegues is either through email if it requires very little communication.
+
+### Communication
+Most would consider this to be a silly thing to state but it is important that **all** the team members have their say, all within the same workspace. Do not divide the converstation by moving to direct messages with people, use a groupchat and have others have their say and see what is being done and what may need some improvements. A good messaging application would be [Microsoft Teams](https://teams.microsoft.com).
 
 ### Stand-up
 It is best that when you are working on a group project that you have a weekly meeting to ensure that everyone is on track and knows what they are doing. This should be done either in person or on a conference application like Discord, Zoom or Microsoft Teams.
@@ -88,7 +95,7 @@ It is best that when you are working on a group project that you have a weekly m
 Git is one of the best collaboration tools when learnt and used correctly. I recommend to use GitHub as a Student that has a 365 package you get free [Github Pro] which features a range of free tools to use (as a student) most include WebDev tools.
 <br><br>
 
-## Calenders
+## Online Calenders
 ### Deadlines
 When the assignments are set make sure to not only take a mental note but physical note too. if you have a diary or student planner highlight when the deadline is due on your paper by making it stand out, this can be by circling it or using alternate colors for deadlines like a bright red. Most scools come with a free version of Office 365 which includes a student email has a calender option built in. This can be used for not only deadlines but for when you have lessons to better manage your time and see how the time is taken up.
 
@@ -99,7 +106,7 @@ Using the calender web application, input all the times you need to be in lectur
 
 ## Organising your time
 ### Coursework
-To ensure that you do not fall behind it is important to manage your time to the deadline. You should 
+To ensure that you do not fall behind it is important to manage your time to the deadline. You should set a "hard" deadline and a "soft" deadline. The hard being the absolute deadline and the soft one being an earlier alternative you should aim for. Typically a week earlier.
 
 ### Exam
 "Let’s say you learned something you want to remember in the long-run. Now, what you should do is read it today (1), tomorrow (2), the day after tomorrow (3), and then on the 7th day from your first reading (7). If you read something today, say, August 10th, you’d re-read it on the 11th, 12th, and the 17th." [Improve Long Term Memory]
@@ -108,6 +115,13 @@ To ensure that you do not fall behind it is important to manage your time to the
 If you feel unmotivated try to add a reward system to your work. For every task you complete, give it a piece of coursework, you get to do something you want to do such as play a game for 30 mins. This will help divide up the work and not make it seem to stressful.
 Please also make sure you take regular breaks from work as being confined to a task for too long can just cause you to stop working.
 <br><br>
+
+## Employment
+### LinkedIn
+
+### GitHub
+Github is one of the areas employers can see some of the work you have done easily. Not to say that all of them do this or that is required by you to make a github.<br>
+Style your home page with [profileme.dev](https://www.profileme.dev/) to clearly show your skills in a nicely displayed way.
 
 ## Last little Note
 If you have any suggestions on what could be added to this document to help other fellow students feel free to add to this document either in the form of a fork or using the 'issues' tab. I will be sure to credit you :3
@@ -119,6 +133,7 @@ Original Author: William Georgeson
 ```
 ## References
 * [Github Pro](https://education.github.com/pack)
+* [Microsoft Teams](https://teams.microsoft.com)
 * [Improve Long Term Memory](https://bettermarketing.pub/use-the-7-3-2-1-method-to-improve-your-long-term-memory-829a43a040f7)
 * [Markdown CheatSheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
-* 
+* [ProfileMe.dev](https://www.profileme.dev/)
